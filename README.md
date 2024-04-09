@@ -14,7 +14,7 @@ The `API Debug Mate` Chrome Extension is designed to help developers thoroughly 
     - Headers
     - Request Body/ Form data (if any)
 - You can see in below image. I am hiting a github API for private repository usin extention
-<img width="676" alt="Screenshot" src="https://github.com/VipulNikam41/api-debug-mate/assets/56763988/2485e3fc-9671-47be-a5ae-c80492e217a4">
+![alt text](https://github.com/VipulNikam41/api-debug-mate/assets/56763988/2485e3fc-9671-47be-a5ae-c80492e217a4)
 
 
 ## Limitation
